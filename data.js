@@ -23,14 +23,14 @@ const controls = [
   },
   {
     name: "Tremolo Depth",
-    cc: 20,
+    cc: 21,
     location: "EG + B",
     desc: "Sets the tremolo depth.",
     values: "0-100",
   },
   {
     name: "Tremolo Rate",
-    cc: 21,
+    cc: 20,
     location: "EG + A",
     desc: "Sets the tremolo frequency.",
     values: "0-60",
