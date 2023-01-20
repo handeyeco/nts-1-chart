@@ -49,3 +49,12 @@ label {
     line-height: 1.5em;
     margin: 0;
 }
+
+footer {
+    padding: 6rem 1rem;
+}
+
+a {
+    color: steelblue;
+    font-weight: bold;
+}
