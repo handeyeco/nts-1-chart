@@ -1,0 +1,51 @@
+body, html {
+    font-size: 10px;
+    font-family: sans-serif;
+}
+
+.main-container {
+    max-width: 800px;
+    margin: 5rem auto;
+    font-size: 1.6rem;
+}
+
+label {
+    font-weight: bold;
+}
+
+#filter-count {
+    font-weight: normal;
+    color: grey;
+    padding-left: 1rem;
+}
+
+#search-input {
+    font-size: 1.1em;
+    display: block;
+    box-sizing: border-box;
+    width: 100%;
+    padding: 0.5rem;
+    margin: 0.5rem 0;
+    border: 2px solid steelblue;
+}
+
+.list-entry {
+    border-bottom: 2px solid steelblue;
+    padding: 2rem 1rem;
+}
+
+.list-entry__header {
+    font-size: 1.2em;
+}
+
+.list-entry__desc {
+    padding: 0 0 1em;
+}
+
+.list-entry__values,
+.list-entry__location,
+.list-entry__cc {
+    font-size: 1em;
+    line-height: 1.5em;
+    margin: 0;
+}
